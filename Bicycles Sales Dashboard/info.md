@@ -1,4 +1,6 @@
-Developed a comprehensive sales dashboard using Power BI to track real-time sales performance and trends across regions and products.
-Leveraged advanced data visualization techniques to highlight key metrics such as revenue, sales growth, and customer acquisition.
-Integrated multiple data sources and automated report generation, enhancing efficiency.
-Implemented interactive features like dynamic filters and drill-downs, improving user experience and strategic decision-making.
+
+Sales Dashboard: Bicycles Sales Data | Power BI, Excel | GitHub
+•	Examined ₹77 Lakh in sales data for Bicycles Sales Store, covering 7078 orders. 
+•	Built an interactive Power bi dashboard with filters, bar charts, pie charts, and trend analysis reducing manual reporting time by 30%. 
+•	Identified top-performing states through regional sales analysis leading to a 20% increase in regional sales
+
